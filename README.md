@@ -5,7 +5,7 @@ Code repository to go with the blog post: https://mariomucalo.com/return-all-val
 The goal of this repository is to show how to make reusable code that will easily allow you to take an enum like this:
 
 ```csharp
-public enum DogTypesEnum
+public enum DogTypeEnum
 {
     GERMAN_SHEPHERD = 1,
     LABRADOR_RETREIVER = 2,
